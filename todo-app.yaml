@@ -8,6 +8,6 @@ spec:
     kind: GitRepository
     name: dwk-repo
   interval: 10m
-  path: ./project
+  path: ./project/manifests
   prune: true
   validation: client
